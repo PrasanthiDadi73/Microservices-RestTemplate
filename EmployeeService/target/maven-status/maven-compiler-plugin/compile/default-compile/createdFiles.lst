@@ -1,0 +1,7 @@
+EmployeeService\repository\EmployeeRepo.class
+EmployeeService\controller\EmployeeController.class
+EmployeeService\client\AddressClient.class
+EmployeeService\EmployeeServiceApplication.class
+EmployeeService\entity\Address.class
+EmployeeService\dto\EmployeeDTO.class
+EmployeeService\entity\Employee.class

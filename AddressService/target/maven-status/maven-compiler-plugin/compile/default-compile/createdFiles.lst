@@ -1,0 +1,4 @@
+AddressService\AddressServiceApplication.class
+AddressService\controller\AddressController.class
+AddressService\entity\Address.class
+AddressService\repository\AddressRepo.class
